@@ -8,7 +8,7 @@ Arquitectura ISTAxRECON:
 
 Bloque N:
 
-![CS_reconstruction](/images/BloqueN-ISTAxRECON.png)]
+![CS_reconstruction](/images/BloqueN-ISTAxRECON.png)
 
 Todos los bloques:
 
