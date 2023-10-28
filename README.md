@@ -8,6 +8,6 @@ Arquitectura ISTAxRECON:
 
 ![CS_reconstruction](/images/BloqueN-ISTAxRECON.png)
 
-![CS_reconstruction](/images/Complete-ISTAxRECON.png)
+![CS_reconstruction](/images/Complete-IstaxRecon.png)
 
 ![CS_reconstruction](/images/ISTAxRECON-VS-HSCNN-Second.png)
