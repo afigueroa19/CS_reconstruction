@@ -6,8 +6,14 @@ Si se cambia el tamaño de la imagen a reconstruir, hay que realizar algunos aju
 
 Arquitectura ISTAxRECON:
 
-![CS_reconstruction](/images/BloqueN-ISTAxRECON.png)
+Bloque N:
+
+![CS_reconstruction](/images/BloqueN-ISTAxRECON.png)]
+
+Todos los bloques:
 
 ![CS_reconstruction](/images/Complete-IstaxRecon.png)
+
+Reconstrucciones obtenidas:
 
 ![CS_reconstruction](/images/ISTAxRECON-VS-HSCNN-Second.png)
